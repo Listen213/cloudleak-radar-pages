@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>CloudLeak Owned Feed</title><link>https://example.invalid/</link><description>Demonstration feed for owned site</description>
+<item><title>Owned test note</title><description>client_secret="SyntheticOwnedFeed_7Q2P9R4X"</description><guid>radar-fixture-001</guid><pubDate>Thu, 08 Oct 2026 07:00:00 GMT</pubDate></item>
+</channel></rss>
